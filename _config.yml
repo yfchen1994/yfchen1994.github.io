@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yufei Chen (陈宇飞)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yufei Chen"
+#description              : &description "personal description"
+#url                      : https://yfchen1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://127.0.0.1:4000/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yfchen1994/yfchen1994.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,21 +56,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
@@ -80,41 +66,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  #name             : "Yufei Chen (陈宇飞)"
+  avatar           : "yfchen.jpg"
+  location         : "Xi'an, China"
+  googlescholar    : "https://scholar.google.com/citations?user=piVw5goAAAAJ&hl=en"
+  email            :  yfchen@sei.xjtu.edu.cn
+  github           : "yfchen1994"
 
 
 # Reading Files
@@ -176,17 +133,20 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false 
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false 
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false 
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false 
     permalink: /:collection/:path/
+  cv:
+    output: false
+    permalink: /files/Yufei_CV.pdf
 
 
 # Defaults
