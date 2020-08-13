@@ -7,7 +7,7 @@ redirect_from:
   - /misc.html
 ---
 
-Some great advices for (CS) Ph.D. students. 
+Some pieces of great advices for (CS) Ph.D. students. 
 
 * [The Art of Presentations](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/slides/the-art-of-presentations.pdf) --Baochun Li
 * [Giving an Academic Talk](https://people.eecs.berkeley.edu/~jrs/speaking.html) --Jonathan Shewchuk
