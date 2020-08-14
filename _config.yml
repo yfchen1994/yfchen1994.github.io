@@ -138,14 +138,8 @@ collections:
   publications:
     output: true 
     permalink: /:collection/:path/
-  portfolio:
-    output: false 
-    permalink: /:collection/:path/
   misc:
     output: true 
-    permalink: /:collection/:path/
-  talks:
-    output: false 
     permalink: /:collection/:path/
   cv:
     output: false
