@@ -8,7 +8,7 @@ redirect_from:
   - /publication.html
 ---
 
-You can also find my publication on [Google Scholar](https://scholar.google.com/citations?user=piVw5goAAAAJ&hl=en&oi=ao).
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=piVw5goAAAAJ&hl=en&oi=ao).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
