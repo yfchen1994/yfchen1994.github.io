@@ -1,0 +1,28 @@
+title: Yufei Chen's Homepage
+url: "https://yfchen1994.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+template_url: "https://github.com/ankitsultana/researcher/tree/gh-pages"
+template_name: "template designed by Ankit Sultana"
+footer_text: ""
+last_modified_at: "May-2024"
+
+google_scholar: "https://scholar.google.com/citations?hl=en&user=piVw5goAAAAJ&view_op=list_works&sortby=pubdate"
+linkedin: "https://www.linkedin.com/in/yufei-chen-b00017b7/"
+github: "https://github.com/yfchen1994"
+dblp: "https://dblp.org/pid/79/4489-1.html"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: ""
+ - name: "Resume"
+   link: "resume.pdf"
