@@ -138,5 +138,14 @@ hr {
 	}
 }
 
+/*
+ * For email obfuscation
+ */
+
+span.email o {
+	display: none;
+}
+
+
 @import "typography";
 @import "tables";
