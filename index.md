@@ -42,12 +42,12 @@ My research lies at the intersection of cybersecurity and AI. Currently, I am fo
 
 - Kaidi Jin, Tianwei Zhang, Chao Shen, **Yufei Chen**, Ming Fan, Chenhao Lin, and Ting Liu. [Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?](https://ieeexplore.ieee.org/abstract/document/9844276), **_IEEE Transactions on Dependable and Secure Computing (TDSC)_**, vol. 20, no. 4, 2023.
 
-- **Yufei Chen**, Chao Shen, Yun Shen, Cong Wang, and Yang Zhang. [Amplifying Membership Exposure via Data Poisoning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c0f240bb986df54b38026398da1ae72a-Abstract-Conference.html), in **_Advances in Neural Information Processing Systems 35 (NeurIPS)_**, 2022.
+- **Yufei Chen**, Chao Shen, Yun Shen, Cong Wang, and Yang Zhang. [Amplifying Membership Exposure via Data Poisoning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c0f240bb986df54b38026398da1ae72a-Abstract-Conference.html), in **_The 36th Annual Conference on Neural Information Processing Systems (NeurIPS)_**, 2022.
 
 - **Yufei Chen**, Chao Shen, Cong Wang, and Yang Zhang. [Teacher Model Fingerprinting Attacks Against Transfer Learning
 ](https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yufei), in **_The 31st USENIX Security Symposium (USENIX Security)_**, 2022.
 
-- Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, **Yufei Chen**, and Qian Wang. [FairNeuron: Improving Deep Neural Network Fairness with Adversary Games on Selective Neurons](https://dl.acm.org/doi/abs/10.1145/3510003.3510087), in **_the 44th International Conference on Software Engineering (ICSE)_**, 2022.
+- Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, **Yufei Chen**, and Qian Wang. [FairNeuron: Improving Deep Neural Network Fairness with Adversary Games on Selective Neurons](https://dl.acm.org/doi/abs/10.1145/3510003.3510087), in **_The 44th International Conference on Software Engineering (ICSE)_**, 2022.
 
 - Junhao Zhou<sup>\*</sup>, **Yufei Chen<sup>\*</sup>**, Chao Shen, Yang Zhang. [Property Inference Attacks Against GANs](https://www.ndss-symposium.org/ndss-paper/auto-draft-240/), in **_The Network and Distributed System Security Symposium (NDSS)_**, 2022. (<sup>\*</sup>: co-first authors)
 
