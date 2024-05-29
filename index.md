@@ -19,7 +19,7 @@ yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>@cityu<o>.ejAMuIe4Wr</o>.edu.hk
 
 Hi! I am currently a postdoc at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). 
 I received my dual Ph.D. from [City University of Hong Kong](https://www.cityu.edu.hk/) and [Xi'an Jiaotong Univeristy](http://en.xjtu.edu.cn/), where I was fortunate to be supervised by [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/) and [Prof. Chao Shen](https://gr.xjtu.edu.cn/en/web/cshen/english).
-Meanwhile, during my Ph.D. journey, I was privileged to work closely with [Prof. Yang Zhang](https://yangzhangalmo.github.io/publications/) at CISPA, [Dr. Yun Shen](https://uk.linkedin.com/in/yun-shen-24336257), and [Prof. Kang Li](https://cobweb.cs.uga.edu/~kangli/).
+Meanwhile, during my Ph.D. journey, I was privileged to work closely with [Prof. Yang Zhang](https://yangzhangalmo.github.io/publications/), [Dr. Yun Shen](https://uk.linkedin.com/in/yun-shen-24336257), and [Prof. Kang Li](https://cobweb.cs.uga.edu/~kangli/).
 I also had a wonderful time in [Qihoo 360](http://www.360.cn/about/englishversion.html) as a research intern advised by in 2018.
 Before that, I obtained B.Eng. and B.B.A. from Xi'an Jiaotong University.
 
