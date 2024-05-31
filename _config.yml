@@ -18,7 +18,7 @@ github: "https://github.com/yfchen1994"
 dblp: "https://dblp.org/pid/79/4489-1.html"
 
 sass:
-    style: compressed
+    style: expanded 
     sass_dir: _sass
 
 nav:
