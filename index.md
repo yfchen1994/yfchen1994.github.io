@@ -13,6 +13,13 @@ Postdoc
 yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>@cityu<o>.ejAMuIe4Wr</o>.edu.hk
 </span>
 
+<div class="icons">
+<a href="{{ site.google_scholar }}"><span class="google-scholar"></span></a>
+<a href="{{ site.linkedin }}"><span class="linkedin"></span></a>
+<a href="{{ site.github }}"><span class="github"></span></a>
+<a href="{{ site.dblp }}"><span class="dblp"></span></a>
+</div>
+
 ---
 
 ## About Me

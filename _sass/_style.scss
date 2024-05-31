@@ -62,17 +62,6 @@ hr {
     float: right;
 }
 
-.social-icons {
-  display:inline-block;
-  height:2.4rem;
-  width:2.4rem;
-  background-color:transparent;
-  border-radius:100%;
-  text-align:center;
-  font-size:1.15rem;
-  line-height:2.5rem;
-  margin-right:1rem}
-
 /* Divs */
 
 .container {
@@ -83,14 +72,6 @@ hr {
     min-height: 100%;
 }
 
-/* Institute Image */
-
-#ins-logo {
-	margin: auto;
-	display: block;
-	max-height: 100px;
-	text-align: center;
-}
 
 /* Mobile */
 
@@ -149,3 +130,4 @@ span.email o {
 
 @import "typography";
 @import "tables";
+@import "icons";
