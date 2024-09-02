@@ -52,8 +52,7 @@ My research lies at the intersection of cybersecurity and AI. Currently, I am fo
 
 - **Yufei Chen**, Chao Shen, Yun Shen, Cong Wang, and Yang Zhang. [Amplifying Membership Exposure via Data Poisoning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c0f240bb986df54b38026398da1ae72a-Abstract-Conference.html), in **_The 36th Annual Conference on Neural Information Processing Systems (NeurIPS)_**, 2022.
 
-- **Yufei Chen**, Chao Shen, Cong Wang, and Yang Zhang. [Teacher Model Fingerprinting Attacks Against Transfer Learning
-](https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yufei), in **_The 31st USENIX Security Symposium (USENIX Security)_**, 2022.
+- **Yufei Chen**, Chao Shen, Cong Wang, and Yang Zhang. [Teacher Model Fingerprinting Attacks Against Transfer Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yufei), in **_The 31st USENIX Security Symposium (USENIX Security)_**, 2022.
 
 - Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, **Yufei Chen**, and Qian Wang. [FairNeuron: Improving Deep Neural Network Fairness with Adversary Games on Selective Neurons](https://dl.acm.org/doi/abs/10.1145/3510003.3510087), in **_The 44th International Conference on Software Engineering (ICSE)_**, 2022.
 
@@ -67,7 +66,7 @@ My research lies at the intersection of cybersecurity and AI. Currently, I am fo
 
 ## Services
 
-- Reviewer of [NeurIPS 2024](https://neurips.cc/), [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [TOPS](https://dl.acm.org/journal/tops), [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IoT-J](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [TOSN](https://dl.acm.org/journal/tosn), [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), [Information Sciences](https://www.sciencedirect.com/journal/information-sciences), etc.
+- Reviewer of [ICLR 2025](https://iclr.cc/), [NeurIPS 2024](https://neurips.cc/), [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [TOPS](https://dl.acm.org/journal/tops), [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IoT-J](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [TOSN](https://dl.acm.org/journal/tosn), [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), [Information Sciences](https://www.sciencedirect.com/journal/information-sciences), etc.
 
 - External Reviewer of  
 	- 2024: USENIX Security, ESORICS
