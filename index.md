@@ -32,7 +32,7 @@ Before that, I obtained B.Eng. and B.B.A. from Xi'an Jiaotong University.
 
 My research lies at the intersection of cybersecurity and AI. Currently, I am focused on analyzing new attack surfaces introduced by AI components and exploring how AI can be leveraged to enhance existing security measures.
 
----
+<!--
 
 ## Education / Experience
 
@@ -41,6 +41,8 @@ My research lies at the intersection of cybersecurity and AI. Currently, I am fo
 - 2012/09-2016/06: B.Eng. in Eletrical Engineering, Xi'an Jiaotong University
 - 2014/03-2016/06: B.B.A. in Business Administration, Xi'an Jiaotong University
 - 2018/03-2018/11: Research Intern, Qihoo 360
+
+-->
 
 ---
 
