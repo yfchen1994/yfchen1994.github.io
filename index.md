@@ -79,6 +79,7 @@ My research lies at the intersection of cybersecurity and AI. Currently, I am fo
 ---
 
 ## Hornors & Awards
+- Top Reviewer of NeurIPS, 2024
 - USENIX Security Student Grant, 2022
 - China National Scholarship, 2020, 2018, 2017, 2015
 - Cyber Security Scholarship, 2019
