@@ -46,8 +46,7 @@ Recently, I am focused on analyzing new attack surfaces introduced by AI compone
 
 ---
 
-## Selected Publications ([Full List](https://scholar.google.com/citations?hl=en&user=piVw5goAAAAJ&view_op=list_works&sortby=pubdate))
-
+## Selected Publications 
 - Longxiang Wang, Lei Xu, **Yufei Chen**, Ying Zou, and Cong Wang. ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries, in **_The 34th USENIX Security Symposium (USENIX Security)_**, 2025. (To appear)
 
 - Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, **Yufei Chen**, and Shiwei Wang. [CILIATE: Towards Fairer Class-Based Incremental Learning by Dataset and Training Refinement](https://dl.acm.org/doi/abs/10.1145/3597926.3598071), in **_The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_**, 2023.
@@ -79,9 +78,9 @@ Recently, I am focused on analyzing new attack surfaces introduced by AI compone
 ## Services
 
 - Reviewer of 
-    - 2025: [ICLR](https://iclr.cc/), [AAAI](https://aaai.org/conference/aaai/aaai-25/), [AISTATS](https://aistats.org/aistats2025/), [ICML](https://icml.cc/)
-    - 2024: [NeurIPS](https://neurips.cc/), [MSN](https://ieee-msn.org/2024/)
-    - Journals: [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [TOPS](https://dl.acm.org/journal/tops), [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IoT-J](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [TOSN](https://dl.acm.org/journal/tosn), [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), [Information Sciences](https://www.sciencedirect.com/journal/information-sciences), etc.
+    - 2025: NeurIPS, ICLR, ICML, AAAI, AISTATS
+    - 2024: NeurIPS, MSN
+    - Journals: TDSC,TIFS, TOPS, TMC, TNNLS, IoT-J, TOSN, Computers & Security, Information Sciences, etc.
 
 - External Reviewer of  
 	- 2024: USENIX Security, ESORICS
