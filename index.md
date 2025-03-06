@@ -22,9 +22,11 @@ yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>@cityu<o>.ejAMuIe4Wr</o>.edu.hk
 
 ---
 
-## About Me
+## About Me 
 
-Hi! I am currently a postdoc at [City University of Hong Kong](https://www.cityu.edu.hk/). 
+(**I'm seeking research position in academia or industry!!!** 😊)
+
+I am currently a postdoc at [City University of Hong Kong](https://www.cityu.edu.hk/). 
 I received my dual Ph.D. from [City University of Hong Kong](https://www.cityu.edu.hk/) and [Xi'an Jiaotong Univeristy](http://en.xjtu.edu.cn/). 
 I also had a wonderful time in [Qihoo 360](http://www.360.cn/about/englishversion.html) as a research intern in 2018.
 Before that, I obtained B.Eng. and B.B.A. from Xi'an Jiaotong University.

@@ -1,6 +1,7 @@
 /*
  * Customization Variables
  */
+/*$accent: #FF0F00;*/
 /*
  * Build Variables, don't touch
  */
@@ -16,13 +17,14 @@ html {
 
 body {
   margin: 0;
-  font-family: "Inconsolata";
+  /*font-family: "Inconsolata";*/
+  font-family: "Nunito";
   height: 100%;
 }
 
 a {
   text-decoration: none;
-  color: #FF0F00;
+  color: #4285F4;
 }
 
 a:hover {
@@ -141,6 +143,7 @@ span.email o {
 /*
  * Customization Variables
  */
+/*$accent: #FF0F00;*/
 /*
  * Build Variables, don't touch
  */
@@ -197,7 +200,7 @@ p .content .profile-picture {
 }
 .content img {
   text-align: center;
-  width: 100%;
+  width: auto;
 }
 
 table {
