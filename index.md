@@ -22,9 +22,7 @@ yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>@cityu<o>.ejAMuIe4Wr</o>.edu.hk
 
 ---
 
-## About Me 
-
-(<span class="highlight">**I'm seeking research position in academia or industry!!!**</span> Please reach out if you think my skills and experience could be a good fit for your team or project. 😊)
+## About Me <font style="font-weight: normal; font-style: normal; ">(<span class="highlight">Seeking research position in academia or industry 😊</span>)</font>
 
 I am currently a postdoc at [City University of Hong Kong](https://www.cityu.edu.hk/). 
 I received my dual Ph.D. from [City University of Hong Kong](https://www.cityu.edu.hk/) and [Xi'an Jiaotong Univeristy](http://en.xjtu.edu.cn/). 
@@ -62,11 +60,11 @@ Recently, I am focused on analyzing new attack surfaces introduced by AI compone
 
 - Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, **Yufei Chen**, and Qian Wang. [FairNeuron: Improving Deep Neural Network Fairness with Adversary Games on Selective Neurons](https://dl.acm.org/doi/abs/10.1145/3510003.3510087), in **_The 44th International Conference on Software Engineering (ICSE)_**, 2022.
 
-- Junhao Zhou<sup>\*</sup>, **Yufei Chen<sup>\*</sup>**, Chao Shen, and Yang Zhang. [Property Inference Attacks Against GANs](https://www.ndss-symposium.org/ndss-paper/auto-draft-240/), in **_The Network and Distributed System Security Symposium (NDSS)_**, 2022. (<sup>\*</sup>: co-first authors)
+- Junhao Zhou<sup>\*</sup>, **Yufei Chen<sup>\*</sup>**, Chao Shen, and Yang Zhang. [Property Inference Attacks Against GANs](https://www.ndss-symposium.org/ndss-paper/auto-draft-240/), in **_The Network and Distributed System Security Symposium (NDSS)_**, 2022.
 
 - **Yufei Chen**, Chao Shen, Cong Wang, Qixue Xiao, Kang Li, and Yu Chen. [Scaling Camouflage: Content Disguising Attack Against Computer Vision Applications](https://ieeexplore.ieee.org/abstract/document/8982037), **_IEEE Transactions on Dependable and Secure Computing (TDSC)_**, vol. 28, no. 5, 2021.
 
-- Qixue Xiao<sup>\*</sup>, **Yufei Chen<sup>\*</sup>**, Chao Shen, Yu Chen, and Kang Li. [Seeing is Not Believing: Camouflage Attacks on Image Scaling Algorithms](https://www.usenix.org/conference/usenixsecurity19/presentation/xiao), in **_The 28th USENIX Security Symposium (USENIX Security)_**, 2019. (<sup>\*</sup>: co-first authors)
+- Qixue Xiao<sup>\*</sup>, **Yufei Chen<sup>\*</sup>**, Chao Shen, Yu Chen, and Kang Li. [Seeing is Not Believing: Camouflage Attacks on Image Scaling Algorithms](https://www.usenix.org/conference/usenixsecurity19/presentation/xiao), in **_The 28th USENIX Security Symposium (USENIX Security)_**, 2019.
 
 ---
 
