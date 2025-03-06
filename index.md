@@ -24,7 +24,7 @@ yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>@cityu<o>.ejAMuIe4Wr</o>.edu.hk
 
 ## About Me 
 
-(**I'm seeking research position in academia or industry!!!** 😊)
+(<span class="highlight">**I'm seeking research position in academia or industry!!!**</span> Please reach out if you think my skills and experience could be a good fit for your team or project. 😊)
 
 I am currently a postdoc at [City University of Hong Kong](https://www.cityu.edu.hk/). 
 I received my dual Ph.D. from [City University of Hong Kong](https://www.cityu.edu.hk/) and [Xi'an Jiaotong Univeristy](http://en.xjtu.edu.cn/). 
@@ -48,7 +48,8 @@ Recently, I am focused on analyzing new attack surfaces introduced by AI compone
 
 ---
 
-## Selected Publications 
+## Selected Publications <font style="font-weight: normal; font-style: normal;">(*:co-first authors)</font>
+
 - Longxiang Wang, Lei Xu, **Yufei Chen**, Ying Zou, and Cong Wang. ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries, in **_The 34th USENIX Security Symposium (USENIX Security)_**, 2025. (To appear)
 
 - Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, **Yufei Chen**, and Shiwei Wang. [CILIATE: Towards Fairer Class-Based Incremental Learning by Dataset and Training Refinement](https://dl.acm.org/doi/abs/10.1145/3597926.3598071), in **_The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_**, 2023.
