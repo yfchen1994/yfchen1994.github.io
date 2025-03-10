@@ -30,7 +30,7 @@ I also had a wonderful time in [Qihoo 360](http://www.360.cn/about/englishversio
 Before that, I obtained B.Eng. and B.B.A. from Xi'an Jiaotong University in 2016.
 
 My research lies at the intersection of cybersecurity and AI. 
-Recently, I am focused on analyzing new attack surfaces introduced by AI components and exploring how AI can be leveraged to enhance existing security measures.
+Recently, I am focusing on analyzing new attack surfaces introduced by AI components and exploring how AI can be leveraged to enhance existing security measures.
 
 <!--
 
