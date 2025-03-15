@@ -10,7 +10,7 @@ Postdoc
 <br>Tat Chee Avenue, Kowloon, Hong Kong SAR
 <br>Email: 
 <span class="email">
-yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>@cityu<o>.ejAMuIe4Wr</o>.edu.hk
+yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>-c@my.cityu<o>.ejAMuIe4Wr</o>.edu.hk
 </span>
 
 <div class="icons">
