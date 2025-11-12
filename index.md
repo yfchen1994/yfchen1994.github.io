@@ -22,7 +22,7 @@ yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>-c@my.cityu<o>.ejAMuIe4Wr</o>.edu.hk
 
 ---
 
-## About Me <font style="font-weight: normal; font-style: normal; ">(<span class="highlight">Seeking research position in academia or industry 😊</span>)</font>
+## About Me <!--<font style="font-weight: normal; font-style: normal; ">(<span class="highlight">Seeking research position in academia or industry 😊</span>)</font>-->
 
 I am currently a postdoc at [City University of Hong Kong](https://www.cityu.edu.hk/). 
 I received my dual Ph.D. from [City University of Hong Kong](https://www.cityu.edu.hk/) and [Xi'an Jiaotong Univeristy](http://en.xjtu.edu.cn/) in 2024. 
