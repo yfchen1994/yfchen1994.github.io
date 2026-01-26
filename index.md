@@ -24,9 +24,9 @@ yufei<o>Y8oWuD9e86</o>chen8<o>k0BGBnvtqb</o>-c@my.cityu<o>.ejAMuIe4Wr</o>.edu.hk
 
 ## About Me <!--<font style="font-weight: normal; font-style: normal; ">(<span class="highlight">Seeking research position in academia or industry 😊</span>)</font>-->
 
-I am currently a postdoc at [City University of Hong Kong](https://www.cityu.edu.hk/). 
-I received my dual Ph.D. from [City University of Hong Kong](https://www.cityu.edu.hk/) and [Xi'an Jiaotong Univeristy](http://en.xjtu.edu.cn/) in 2024. 
-I also had a wonderful time in [Qihoo 360](http://www.360.cn/about/englishversion.html) as a research intern in 2018.
+I am currently a research assistant professor at City University of Hong Kong, where I was a postdoc from June 2024 to January 2026. 
+I received my dual Ph.D. from City University of Hong Kong and Xi'an Jiaotong Univeristy in 2024. 
+I also had a wonderful time in Qihoo 360 as a research intern in 2018.
 Before that, I obtained B.Eng. and B.B.A. from Xi'an Jiaotong University in 2016.
 
 My research lies at the intersection of cybersecurity and AI. 
