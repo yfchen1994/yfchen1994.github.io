@@ -4,7 +4,7 @@ layout: default
 
 ## Yufei Chen (陈宇飞)
 
-Postdoc
+Research Assistant Professor
 <br>Department of Computer Science
 <br>City University Hong Kong
 <br>Tat Chee Avenue, Kowloon, Hong Kong SAR
@@ -70,6 +70,8 @@ Recently, I am focusing on analyzing new attack surfaces introduced by AI compon
 
 ## Teaching
 
+- 2026 Spring, CS5293 (Topics on Information Security), PG, Tutor, CityUHK(DG)
+- 2025 Fall, CS6535 (Guided Study in Artificial Intelligence), PG, Tutor, CityUHK(DG)
 - 2025 Spring, CS6290 (Privacy-enhancing Technologies), PG, Tutorial Lecturer, CityUHK(DG).
 - 2025 Spring, CS2310 (Computer Programming), UG, Tutorial Lecturer, CityUHK.
 - 2024 Fall, CS2311 (Computer Programming), UG, Tutorial Lecturer, CityUHK.
@@ -79,6 +81,7 @@ Recently, I am focusing on analyzing new attack surfaces introduced by AI compon
 ## Services
 
 - Reviewer of 
+    - 2026: ICLR
     - 2025: ICLR, AISTATS
     - 2025: NeurIPS, ICLR, ICML, AAAI, AISTATS, MSN
     - 2024: NeurIPS, MSN
