@@ -73,9 +73,9 @@ Recently, I am focusing on analyzing new attack surfaces introduced by AI compon
 - 2026 Fall, CS2117 (Foundations of Security), UG, Instructor, CityUHK
 - 2026 Spring, CS5293 (Topics on Information Security), PG, Tutor, CityUHK(DG)
 - 2025 Fall, CS6535 (Guided Study in Artificial Intelligence), PG, Tutor, CityUHK(DG)
-- 2025 Spring, CS6290 (Privacy-enhancing Technologies), PG, Tutorial Lecturer, CityUHK(DG).
-- 2025 Spring, CS2310 (Computer Programming), UG, Tutorial Lecturer, CityUHK.
-- 2024 Fall, CS2311 (Computer Programming), UG, Tutorial Lecturer, CityUHK.
+- 2025 Spring, CS6290 (Privacy-enhancing Technologies), PG, Tutor, CityUHK(DG).
+- 2025 Spring, CS2310 (Computer Programming), UG, Tutor, CityUHK.
+- 2024 Fall, CS2311 (Computer Programming), UG, Tutor, CityUHK.
 
 ---
 
