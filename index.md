@@ -48,7 +48,7 @@ Recently, I am focusing on analyzing new attack surfaces introduced by AI compon
 
 ## Selected Publications <font style="font-weight: normal; font-style: normal;">(*:co-first authors)</font>
 
-- Longxiang Wang<sup>\*</sup>, Lei Xu<sup>*</sup>, **Yufei Chen**, Ying Zou, and Cong Wang. ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries, in **_The 34th USENIX Security Symposium (USENIX Security)_**, 2025.
+- Longxiang Wang<sup>\*</sup>, Lei Xu<sup>*</sup>, **Yufei Chen**, Ying Zou, and Cong Wang. [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-longxiang), in **_The 34th USENIX Security Symposium (USENIX Security)_**, 2025.
 
 - Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, **Yufei Chen**, and Shiwei Wang. [CILIATE: Towards Fairer Class-Based Incremental Learning by Dataset and Training Refinement](https://dl.acm.org/doi/abs/10.1145/3597926.3598071), in **_The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_**, 2023.
 
@@ -70,6 +70,7 @@ Recently, I am focusing on analyzing new attack surfaces introduced by AI compon
 
 ## Teaching
 
+- 2026 Fall, CS2117 (Foundations of Security), UG, Instructor, CityUHK
 - 2026 Spring, CS5293 (Topics on Information Security), PG, Tutor, CityUHK(DG)
 - 2025 Fall, CS6535 (Guided Study in Artificial Intelligence), PG, Tutor, CityUHK(DG)
 - 2025 Spring, CS6290 (Privacy-enhancing Technologies), PG, Tutorial Lecturer, CityUHK(DG).
